@@ -24,7 +24,7 @@ A demonstration app for making API calls using modern Android architecture.
 
 **Package:** `id.my.mufidz.apicalling`
 
-Go to the [project.](/ApiCalling)
+Go to the [project.](/APICalling)
 
 ---
 
