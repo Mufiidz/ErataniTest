@@ -1,0 +1,10 @@
+[{"id":1,"name":"Car Diagnostic Scanner","initialStock":39,"category":"Automotive","price":49.99},
+{"id":2,"name":"Scented Soy Candles","initialStock":8,"category":"Home","price":19.99},
+{"id":3,"name":"Bamboo Cutting Board","initialStock":28,"category":"Kitchen","price":22},
+{"id":4,"name":"Board Game","initialStock":39,"category":"Toys","price":34.99},
+{"id":5,"name":"Smoked Gouda Cheese","initialStock":50,"category":"Food - Dairy","price":5.49},
+{"id":6,"name":"Protein Pancake Mix","initialStock":17,"category":"Food - Breakfast","price":3.99},
+{"id":7,"name":"Basil Pesto Pasta","initialStock":15,"category":"Food - Prepared Meals","price":6.49},
+{"id":8,"name":"Raspberry Tart","initialStock":50,"category":"Food - Baked Goods","price":5.49},
+{"id":9,"name":"Quinoa Salad","initialStock":15,"category":"Food - Prepared Foods","price":5.99},
+{"id":10,"name":"Oven Mitts","initialStock":46,"category":"Kitchen","price":15.99}]
